@@ -1,0 +1,3 @@
+langchain-core
+requests
+streamlit
